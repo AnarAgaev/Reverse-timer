@@ -1,0 +1,158 @@
+@media screen and (max-width: 1199px) {
+	#clockdiv{
+  		font-size: 38px;
+        padding: 73px 0px;
+	}
+	.smalltext{
+	  	font-size: 16px;
+	}
+	#clockdiv hr {
+    	width: 23px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+    h2 {
+    	font-size: 36px;
+    }
+    h3 {
+    	font-size: 24px;
+    }
+    p {
+    	font-size: 14px;
+    }
+	.about-event p {
+    	line-height: 17px;
+	}
+    .fp__form .checkbox label {
+    	font-size: 16px;
+    }
+    .fp__form .checkbox span {
+        font-size: 16px;
+    }
+    .my-modal-subscribe p {
+	    font-size: 18px;
+	}
+	#clockdiv{
+  		font-size: 28px;
+	}
+    #clockdiv div > span {
+        padding: 0px 12px;
+    }
+	.smalltext{
+	  	font-size: 12px;
+	}
+	#clockdiv hr {
+    	width: 16px;
+    	margin-bottom: 30px;
+    	border-top: 2px solid #fff;
+	}
+}
+
+@media screen and (max-width: 767px) {
+    h2 {
+    	font-size: 24px;
+    }
+    h3 {
+    	font-size: 18px;
+    	text-align: left;
+    }
+
+    .lang-container {
+    	text-align: center;
+    }
+
+    .lang-container {
+    	padding: 0px 0 15px;
+    }
+
+    .index-header {
+    	text-align: center;
+    }
+
+    .index-header h2 {
+		display: inline-block;
+    }
+
+    .index-header .city:before {
+		content: '|';
+		padding: 0 7px;
+		color: #ACC09F;
+    }
+
+    .about-event .timer {
+    	margin-bottom: 30px;
+    }
+
+    .fp__form .form-group {
+    	text-align: left;
+    }
+
+    .fp__form .checkbox label {
+    	padding-left: 10px;
+    }
+
+    .socials {
+    	width: 190px;
+    	margin: 40px auto;
+	}
+	.footer {
+    	margin: 0 15px;
+    	padding: 40px 0;
+	}
+	.footer__organizer {
+    	display: block;
+	}
+
+	.footer__requisite-item {
+	    display: block;
+	    margin: 10px 0 0;
+	}
+
+	.my-modal-subscribe .modal-content {
+    	width: 290px;
+    	height: 438px;
+	}
+
+	.my-modal-subscribe .close-x {
+		top: 10px;
+    	right: 10px;
+	}
+
+	.my-modal-subscribe .modal-body {
+	    width: 290px;
+	    height: 438px;
+	    padding: 65px 23px 5px;
+	}
+	.my-modal-subscribe .modal-body p{
+	    font-size: 18px;
+	}
+	
+	.my-modal-subscribe .modal-body .button{
+	    margin-top: 0px;
+	}
+	
+	.my-modal-subscribe .modal-dialog {
+	    width: 290px;
+	    margin: 100px auto 0;
+	}
+	
+	.my-modal-subscribe .modal-body .modal-body_title {
+	    font-size: 24px;
+	    margin-bottom: 20px;
+	}
+	#clockdiv{
+  		font-size: 23px;
+        padding: 15px 0px;
+	}
+	.smalltext{
+	  font-size: 10px;
+	}
+	#clockdiv hr {
+    	width: 20px;
+    	margin-bottom: 24px;
+	}
+	#clockdiv div > span {
+    	padding: 0px 5px;
+	}
+}
